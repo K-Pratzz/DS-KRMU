@@ -39,4 +39,5 @@ complexity_drill(10)
 
 #questions:
 #big o vs big theta
-#big o means the program will run at most this time, while big theta means it will run exactly this time. exactly that much operations in worst case.
+#big o means the program will run at most this time, while big theta means it will run exactly this
+#  time. exactly that much operations in worst case.
